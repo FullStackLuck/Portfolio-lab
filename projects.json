@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Project 1",
+      "live": "https://nbaprofileapp.netlify.app/",
+      "git": "https://github.com/FullStackLuck/Unit-One-Project",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Project 2",
+      "live": "https://sonically-app.herokuapp.com/",
+      "git": "https://github.com/FullStackLuck/Sonically-App",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+]
