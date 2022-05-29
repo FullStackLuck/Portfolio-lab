@@ -10,5 +10,12 @@
       "live": "https://sonically-app.herokuapp.com/",
       "git": "https://github.com/FullStackLuck/Sonically-App",
       "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Sonically Playlist App",
+      "live": "https://sonically-app.herokuapp.com/",
+      "git": "https://github.com/FullStackLuck/Sonically-App",
+      "image": "http://www.imgur.com/pictureofproject.png"
+
     }
 ]
